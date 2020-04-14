@@ -1,8 +1,10 @@
 # Alexa-Skill-Development
-My first project on alexa skill development 
+My first project on alexa skill development.
+Originally got the inspiration to create this from my laziness to open laptop specially to perform subdomain check! :D 
+Yay, Thank me later :P 
 
 # What is this project?
-Okay so, this is the voice based subdomain finder script which runs on alexa device.
+Okay, this is the voice based subdomain enumration script, which runs on alexa device.
 
 # What is does?
 1. Verify whether the given input URL actually exist or not?
