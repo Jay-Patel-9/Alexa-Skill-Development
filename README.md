@@ -12,7 +12,8 @@ Okay, this is the voice based subdomain enumration script, which runs on alexa d
 3. Scans and email the results on given email address.
 
 # Limitations
-- As of now it only supports https urls which are on .com domain. (Soon i will upload the fix for that issue)
+- As of now it only supports "https" urls which are running on ".com" domain. (soon i will commit the fix for that issue)
+- I am still working to improve it so please be patient, Do let me know if you have any suggestion :) 
 
 # Credits
 The subdomain finder script (Sublist3r) used in this project is orginally published by [aboul3la](https://github.com/aboul3la/Sublist3r) huge thanks to him!
