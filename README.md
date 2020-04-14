@@ -19,6 +19,6 @@ The subdomain finder script (Sublist3r) used in this project is orginally publis
 Open lambda_function.py file and search for the comment #CHANGE ME
 
 # New to Alexa Skill Development?
-[Get famaliar with alexa developer console] (https://developer.amazon.com/en-US/docs/alexa/alexa-design/get-started.html)
-[Host alexa skill on aws lambda] (https://developer.amazon.com/en-US/docs/alexa/custom-skills/host-a-custom-skill-as-an-aws-lambda-function.html)
-[Tutorial which  helped me] (https://www.youtube.com/watch?v=sj7NqS7yytw)
+1. [Get famaliar with alexa developer console](https://developer.amazon.com/en-US/docs/alexa/alexa-design/get-started.html)
+2. [Host alexa skill on aws lambda](https://developer.amazon.com/en-US/docs/alexa/custom-skills/host-a-custom-skill-as-an-aws-lambda-function.html)
+3. [Tutorial which  helped me](https://www.youtube.com/watch?v=sj7NqS7yytw)
